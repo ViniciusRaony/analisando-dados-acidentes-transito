@@ -24,7 +24,7 @@ Para esta análise exploratória inicial, seão baixados os arquivos *Agrupados 
 
 - O tratamento de dados foi realizado em Python e consta no arquivo .ipynb desse repositório;
 - Os dados processados foram armazenados no banco mysql executado em container docker conectados ao Superset;
-- O dashboard foi elaborado utilizando o Superset (versão docker https://superset.apache.org/docs/installation/installing-superset-using-docker-compose/)
+- O dashboard foi elaborado utilizando o Superset (versão docker https://superset.apache.org/docs/installation/installing-superset-using-docker-compose/), também há algumas visualizações no próprio .ipynb.
 
 **Dicionário das variáveis**
 
